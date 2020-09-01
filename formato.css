@@ -1,0 +1,85 @@
+body{
+   background-color:pink;
+}
+h1{
+	color:purple;
+	font-family:"Bonita";
+	font-size:100px;
+	text-align:Center;
+}
+IMG.imgcenter{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:none;
+}
+h4{
+	color:cyan;
+	font-family:"Times New Roman";
+	font-size:45px;
+	text-align:Center;
+}
+h3{
+	color:cyan;
+	font-family:"Times New Roman";
+	font-size:40px;
+	text-align:left;
+}
+
+video{
+	width:700px;
+	height:500px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+hr{
+	height:50x;
+	background-color:cyan;
+	width:90%;
+	border-color:black;
+}
+ol{
+	font-family:"Times New Roman";
+	color:black;
+	font-size:40px;
+	text-align:justify;
+}
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+h5{
+	color:cyan;
+	font-family:"Bonita";
+	font-size:50px;
+	text-align:justify;
+}
+li{
+	color:cyan;
+	font-family:"Times New Roman";
+	font-size:50px;
+	text-align:justify;
+}
+table{
+	border-collapse: collapse;
+}
+td, th{
+	border:7px solid cyan;
+	font-family:"Times New Roman";
+	font-size:20px;
+}
+caption{
+	font-family:"Bonita";
+	font-size:50px;
+	text-align:center;
+}
+p{
+	font-family:"Times New Roman";
+	font-size:30px;
+	text-align:justify;
+	color:black;
+}
